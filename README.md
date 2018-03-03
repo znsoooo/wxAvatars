@@ -7,6 +7,7 @@
 * 原文地址：https://github.com/znsoooo/wxAvatars
 * 原文作者：硫酸锌01/流水线
 ## 用法
+* 推荐使用Python3，Python2没试过，按理说相关库也能支持
 * IMAGE_WIDTH = 拼图横向宽度最大值
 * IMAGE_RATIO = 画面高宽比例，数值约大画面纵向越长
 * user = 保存路径文件夹和输出拼图文件名
