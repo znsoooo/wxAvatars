@@ -8,6 +8,11 @@ import colorsys
 from PIL import Image
 from operator import itemgetter, attrgetter
 
+# 转载请注明出处
+# 原文标题：微信好友头像拼接
+# 原文地址：https://github.com/znsoooo/wxAvatars
+# 原文作者：硫酸锌01/流水线
+
 IMAGE_WIDTH = 1500
 IMAGE_RATIO = 8
 
