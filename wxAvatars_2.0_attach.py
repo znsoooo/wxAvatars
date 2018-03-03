@@ -4,7 +4,6 @@
 import os
 import math
 import random
-import colorsys
 from PIL import Image
 from operator import itemgetter, attrgetter
 
