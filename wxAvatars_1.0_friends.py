@@ -3,6 +3,11 @@ import sys # non_bmp_map 用到
 import itchat
 import PIL.Image as Image
 
+# 转载请注明出处
+# 原文标题：微信好友头像拼接
+# 原文地址：https://github.com/znsoooo/wxAvatars
+# 原文作者：硫酸锌01/流水线
+
 non_bmp_map = dict.fromkeys(range(0x10000, sys.maxunicode + 1), 0xfffd)
 
 user = 'avatars'
